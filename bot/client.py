@@ -14,7 +14,7 @@ def get_client():
     client = Client(
         API_KEY,
         API_SECRET,
-        testnet=True  # THIS IS IMPORTANT
+        testnet=True  
     )
 
     return client
