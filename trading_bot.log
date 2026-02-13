@@ -1,0 +1,19 @@
+2026-02-12 19:06:07,280 - INFO - Placing MARKET order: BTCUSDT BUY 0.001
+2026-02-12 19:06:09,005 - INFO - Response: {}
+2026-02-12 19:06:24,656 - INFO - Placing LIMIT order: BTCUSDT BUY 0.001 @ 20000
+2026-02-12 19:06:25,873 - INFO - Response: {}
+2026-02-12 19:39:26,779 - ERROR - Price required for LIMIT order
+2026-02-12 19:41:07,576 - INFO - Placing LIMIT order: BTCUSDT BUY 0.001 @ 30000
+2026-02-12 19:41:14,502 - INFO - Response: {}
+2026-02-12 19:42:59,030 - INFO - Placing LIMIT order: BTCUSDT BUY 0.001 @ 30000
+2026-02-12 19:43:06,548 - INFO - Response: {}
+2026-02-12 21:55:27,489 - INFO - Placing MARKET order: BTCUSDT BUY 0.001
+2026-02-12 21:55:28,584 - ERROR - APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-02-12 21:56:29,879 - INFO - Placing MARKET order: BTCUSDT BUY 0.002
+2026-02-12 21:56:31,519 - INFO - Response: {'orderId': 12217862701, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJeee7577ba71caf217918ca', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1770913592504}
+2026-02-13 10:19:14,086 - INFO - Placing MARKET order: BTCUSDT BUY 0.001
+2026-02-13 10:19:14,875 - ERROR - APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-02-13 10:20:00,251 - INFO - Placing MARKET order: BTCUSDT BUY 0.002
+2026-02-13 10:20:01,060 - INFO - Response: {'orderId': 12233407229, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ7ef8813ba05113b2d71cec', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1770958201059}
+2026-02-13 10:22:34,279 - INFO - Placing LIMIT order: BTCUSDT BUY 0.002 @ 20000
+2026-02-13 10:22:35,197 - ERROR - APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
